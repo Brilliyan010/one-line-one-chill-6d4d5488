@@ -11,6 +11,10 @@
 //
 // One sentence, no gore, no mirror/doll/basement cliché, and the last words
 // ("inside of the glass") land the blow.
+//
+// Word choice: "checked the camera" is mundane and modern, so the scare
+// stays grounded; "except for one handprint" withholds the reveal until the
+// final clause, letting the last words do the work.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const LINE =
